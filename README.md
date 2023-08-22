@@ -1,3 +1,5 @@
+You'll need to run next command to execute the test: npx playwright test codere-login.spec.ts
+
 # playwright1
 # codere” >> README.md
 git init
